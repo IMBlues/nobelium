@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://nobelium.vercel.app
+
+# Sitemaps
+Sitemap: https://nobelium.vercel.app/sitemap.xml
