@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[359],{1359:function(e,a,r){r.r(a);var n=r(1163),u=r(1343),t=r.n(u);a.default=function(e){var a=e.ackeeServerUrl,r=e.ackeeDomainId,u=(0,n.useRouter)();return t()(u.asPath,{server:a,domainId:r},{detailed:!1,ignoreLocalhost:!0}),null}}}]);
