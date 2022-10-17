@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://next.emergencyexit.xyz</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:30:15.978Z</lastmod></url>
-<url><loc>https://next.emergencyexit.xyz/feed</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:30:15.978Z</lastmod></url>
-<url><loc>https://next.emergencyexit.xyz/search</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:30:15.978Z</lastmod></url>
-<url><loc>https://next.emergencyexit.xyz/django-orm-best-practice</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:30:15.978Z</lastmod></url>
-<url><loc>https://next.emergencyexit.xyz/about</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:30:15.978Z</lastmod></url>
-<url><loc>https://next.emergencyexit.xyz/python-type-hint</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:30:15.978Z</lastmod></url>
-<url><loc>https://next.emergencyexit.xyz/tag/tech</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:30:15.978Z</lastmod></url>
-<url><loc>https://next.emergencyexit.xyz/tag/django</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:30:15.978Z</lastmod></url>
-<url><loc>https://next.emergencyexit.xyz/tag/orm</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:30:15.978Z</lastmod></url>
-<url><loc>https://next.emergencyexit.xyz/tag/best-practice</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:30:15.978Z</lastmod></url>
-<url><loc>https://next.emergencyexit.xyz/tag/web</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:30:15.978Z</lastmod></url>
-<url><loc>https://next.emergencyexit.xyz/tag/python</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:30:15.978Z</lastmod></url>
-<url><loc>https://next.emergencyexit.xyz/tag/pep</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:30:15.978Z</lastmod></url>
+<url><loc>https://next.emergencyexit.xyz</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:36:00.333Z</lastmod></url>
+<url><loc>https://next.emergencyexit.xyz/feed</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:36:00.333Z</lastmod></url>
+<url><loc>https://next.emergencyexit.xyz/search</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:36:00.333Z</lastmod></url>
+<url><loc>https://next.emergencyexit.xyz/django-orm-best-practice</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:36:00.333Z</lastmod></url>
+<url><loc>https://next.emergencyexit.xyz/about</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:36:00.333Z</lastmod></url>
+<url><loc>https://next.emergencyexit.xyz/python-type-hint</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:36:00.333Z</lastmod></url>
+<url><loc>https://next.emergencyexit.xyz/tag/tech</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:36:00.333Z</lastmod></url>
+<url><loc>https://next.emergencyexit.xyz/tag/django</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:36:00.333Z</lastmod></url>
+<url><loc>https://next.emergencyexit.xyz/tag/orm</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:36:00.333Z</lastmod></url>
+<url><loc>https://next.emergencyexit.xyz/tag/best-practice</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:36:00.334Z</lastmod></url>
+<url><loc>https://next.emergencyexit.xyz/tag/web</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:36:00.334Z</lastmod></url>
+<url><loc>https://next.emergencyexit.xyz/tag/python</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:36:00.334Z</lastmod></url>
+<url><loc>https://next.emergencyexit.xyz/tag/pep</loc><changefreq>daily</changefreq><priority>0.7</priority><lastmod>2022-10-17T18:36:00.334Z</lastmod></url>
 </urlset>
