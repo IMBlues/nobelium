@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://nobelium.vercel.app
+Host: https://next.emergencyexit.xyz/
 
 # Sitemaps
-Sitemap: https://nobelium.vercel.app/sitemap.xml
+Sitemap: https://next.emergencyexit.xyz/sitemap.xml
